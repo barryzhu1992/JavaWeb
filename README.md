@@ -1,3 +1,3 @@
-# Git教程
+# Java
 
-- feature-A
+JavaWeb学习中所有代码练习仓库
